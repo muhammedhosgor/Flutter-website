@@ -21,8 +21,9 @@ class FootherBottom extends StatelessWidget {
         children: [
           Center(
             child: Text(
-              "Copyright 2023 TKLF. All Rights Reserved by TKLF",
-              style: TextStyle(color: colorWhite, fontSize: 12, fontWeight: FontWeight.bold),
+              "Copyright 2023 Muhammed Hoşgör. Tüm Hakları Saklıdır.",
+              style: TextStyle(
+                  color: colorWhite, fontSize: 12, fontWeight: FontWeight.bold),
             ),
           ),
         ],
