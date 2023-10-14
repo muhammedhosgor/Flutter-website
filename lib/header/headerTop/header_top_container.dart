@@ -25,7 +25,7 @@ class headerTopContainer extends StatelessWidget {
             children: [
               PageInfoIcon(
                 icon: Icons.pin_drop_rounded,
-                text: 'Musalla Bağları, Elmalı Cd. No:51, 42060 Selçuklu/Konya',
+                text: 'Bahçeşehir Mah, Ardıç Sk. No:1000 Meram/Konya',
               ),
               PageInfoIcon(
                 icon: Icons.phone,

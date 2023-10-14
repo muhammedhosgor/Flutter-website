@@ -17,6 +17,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.0.2"
+  animated_flip_counter:
+    dependency: "direct main"
+    description:
+      name: animated_flip_counter
+      sha256: "2c25ace054ac3932a3f203875a90ddae760ba7016cb9233573067a12ae51e3c6"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.2.6"
   animated_text_kit:
     dependency: "direct main"
     description:
@@ -97,6 +105,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.17.1"
+  countup:
+    dependency: "direct main"
+    description:
+      name: countup
+      sha256: "3a7509b20170fd78ff9553848016465d34fdbc4ce8adb3d5361be80592b92675"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.1.4"
   crypto:
     dependency: transitive
     description:
@@ -158,6 +174,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.3.1"
+  flutter_image_slider:
+    dependency: "direct main"
+    description:
+      name: flutter_image_slider
+      sha256: "40ad7f99e8f46266bb945938debfd7b1b0c8351735e9d6c929dbb3df587810c9"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.2"
   flutter_lints:
     dependency: "direct dev"
     description:

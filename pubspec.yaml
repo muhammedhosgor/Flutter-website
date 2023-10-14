@@ -43,6 +43,9 @@ dependencies:
   avatar_glow: ^2.0.2
   flutter_staggered_animations: ^1.1.1
   animate_do: ^3.0.2
+  animated_flip_counter: ^0.2.6
+  flutter_image_slider: ^0.0.2
+  countup: ^0.1.4
   
 
 dev_dependencies:
