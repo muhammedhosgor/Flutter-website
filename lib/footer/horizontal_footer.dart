@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:galleryimage/galleryimage.dart';
 import 'package:web_menu/const/color_const.dart';
-import 'package:web_menu/foother/widgets/adress_colum.dart';
-import 'package:web_menu/foother/widgets/foother_menu.dart';
+import 'package:web_menu/footer/widgets/adress_colum.dart';
+import 'package:web_menu/footer/widgets/foother_menu.dart';
 
 class HorizantalFoother extends StatelessWidget {
   const HorizantalFoother({

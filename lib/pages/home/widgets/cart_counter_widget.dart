@@ -47,7 +47,7 @@ class CardCounter extends StatelessWidget {
         width: 10,
       ),
       Text(
-        "Yüzlerce Menmun Müşteri Deneyimi",
+        " Yıllık Uzman Deneyimi",
         style: TextStyle(
             color: colorBg, fontWeight: FontWeight.w600, fontSize: 24),
       )
